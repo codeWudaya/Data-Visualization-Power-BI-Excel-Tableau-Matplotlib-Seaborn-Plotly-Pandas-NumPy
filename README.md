@@ -4,3 +4,7 @@ A comprehensive guide to mastering data visualization using Power BI, Excel, Tab
 # Blinkit-Data-Analysis-Project using PowerBI
 
 ![Data Analysis Project](https://github.com/codeWudaya/Data-Visualization-Power-BI-Excel-Tableau-Matplotlib-Seaborn-Plotly-Pandas-NumPy/blob/main/Blinkit%20Data%20(PowerBI)/blinkit.png)
+
+# Sales-Data-Analysis-Project
+
+![Data Analysis Project](https://github.com/codeWudaya/Data-Visualization-Power-BI-Excel-Tableau-Matplotlib-Seaborn-Plotly-Pandas-NumPy/blob/main/Sales%20Data%20(powerBI)/sales%20data.png)
