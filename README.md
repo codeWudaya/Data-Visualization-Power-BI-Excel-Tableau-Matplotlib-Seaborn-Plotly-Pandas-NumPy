@@ -17,6 +17,6 @@ A comprehensive guide to mastering data visualization using Power BI, Excel, Tab
 
 ![Data Analysis Project](https://github.com/codeWudaya/Data-Visualization-Power-BI-Excel-Tableau-Matplotlib-Seaborn-Plotly-Pandas-NumPy/blob/main/Covid%2019%20Latest/1.jpg)
 #
-https://github.com/codeWudaya/Data-Visualization-Power-BI-Excel-Tableau-Matplotlib-Seaborn-Plotly-Pandas-NumPy/blob/main/Covid%2019%20Latest/2.jpg
+![Data Analysis Project](https://github.com/codeWudaya/Data-Visualization-Power-BI-Excel-Tableau-Matplotlib-Seaborn-Plotly-Pandas-NumPy/blob/main/Covid%2019%20Latest/2.jpg)
 #
-https://github.com/codeWudaya/Data-Visualization-Power-BI-Excel-Tableau-Matplotlib-Seaborn-Plotly-Pandas-NumPy/blob/main/Covid%2019%20Latest/3.jpg
+![Data Analysis Project](https://github.com/codeWudaya/Data-Visualization-Power-BI-Excel-Tableau-Matplotlib-Seaborn-Plotly-Pandas-NumPy/blob/main/Covid%2019%20Latest/3.jpg)
